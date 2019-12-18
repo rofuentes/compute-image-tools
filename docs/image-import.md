@@ -173,6 +173,12 @@ Where, `YOUR_IMPORTED_IMAGE` is the GCE image that was created in step 2. The `s
     <td>/daisy/windows/translate_windows_2016.wf.json
     </td>
   </tr>
+  <tr>
+    <td>Windows Server 2019
+    </td>
+    <td>/daisy/windows/translate_windows_2019.wf.json
+    </td>
+  </tr>
 </table>
 
 ### Workflows to use if customer supplies licensing (BYOL)
